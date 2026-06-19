@@ -12,6 +12,10 @@ public class Test
 	{
 		System.out.println("This is M2 Method");
 	}
+	public void m3()
+	{
+		System.out.println("This is M3 Method");
+	}
 	
 	
 public static void main(String[] args) {
